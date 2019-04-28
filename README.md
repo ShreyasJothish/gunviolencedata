@@ -1,6 +1,6 @@
 # gunviolencedata
 
-Data Analysis on all recorded gun violence incidents in the US between January 2013 and March 2018, inclusive based on https://github.com/jamesqo/gun-violence-data
+Data analysis and visualization on all recorded gun violence incidents in the US between January 2013 and March 2018, inclusive based on https://github.com/jamesqo/gun-violence-data
 
 **Major Dependency:**:
 * geocoder, LocationIQ provides geocoding based on OpenStreetMap’s Nominatim.
