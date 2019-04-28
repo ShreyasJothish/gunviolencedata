@@ -3,12 +3,14 @@
 Data analysis and visualization on all recorded gun violence incidents in the US between January 2013 and March 2018, inclusive based on https://github.com/jamesqo/gun-violence-data
 
 **Major Dependency:**:
-* geocoder, LocationIQ provides geocoding based on OpenStreetMap’s Nominatim.
+* geocoder and LocationIQ provides geocoding based on OpenStreetMap’s Nominatim.
 > https://geocoder.readthedocs.io/providers/LocationIQ.html
-* dask, Dask provides advanced parallelism for analytics, enabling performance at scale for the tools you love.
+* dask, provides advanced parallelism for analytics, enabling performance at scale for the tools you love.
 > https://dask.org/
-* dash, Dash is a Python framework for building analytical web applications.
+* dash, Python framework for building analytical web applications.
 > https://plot.ly/products/dash/
+* Mapbox, is a Live Location Platform.
+> https://www.mapbox.com/
 
 **gun_violence_data_preparation.ipynb**
 
