@@ -69,7 +69,7 @@ for static needs, with html images for interactive national level analysis
 
 **app_heatmap.py**
 
-* Dash app for generating Mass shotout (atleast 4 victims) heat map across USA.
+* Dash app for generating mass shootout (atleast 4 victims) heat map across USA.
 
 _Input:_
 * gun-violence-data_01-2013_03-2018_cleaned.csv
