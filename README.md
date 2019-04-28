@@ -2,7 +2,7 @@
 
 1. **gun_violence_data_preparation.ipynb**
 
-> Used for feature engineering and data cleanup
+* Used for feature engineering and data cleanup
 
 _Input:_
 * Gun Violence Dataset from [Kaggle](https://www.kaggle.com/jameslko/gun-violence-data) 
@@ -17,7 +17,7 @@ _Note_
 
 2. **lat_long.csv**
 
-> Contains latitude and longitude information fetched using [Geocoder using LocationIQ API](https://geocoder.readthedocs.io/providers/LocationIQ.html)
+* Contains latitude and longitude information fetched using [Geocoder using LocationIQ API](https://geocoder.readthedocs.io/providers/LocationIQ.html)
 
 _Note_
 * LOCATIONIQ_API_KEY is needed to fetch missing latitude and longitude information (if any). 
@@ -25,21 +25,21 @@ _Note_
 
 3. **app_choropleth.py**
 
-> Dash app for generating choropleth across years.
+* Dash app for generating choropleth across years.
 
 _Input:_
 * gun-violence-data_choropleth.csv
 
 4. **app_scatter.py**
 
-> Dash app for generating scatter plot across years.
+* Dash app for generating scatter plot across years.
 
 _Input:_
 * gun-violence-data_01-2013_03-2018_cleaned.csv
 
 5. **gun_violence_data_preparation_choropleth.ipynb**
 
-> Used for feature engineering needed for generating choropleth.
+* Used for feature engineering needed for generating choropleth.
 
 _Input:_
 * gun-violence-data_01-2013_03-2018_cleaned.csv
@@ -50,14 +50,14 @@ gun-violence-data_choropleth.csv
 
 6. **statecode.csv**
 
-> Contains mapping information of state names to its correponding abbreviations.
+* Contains mapping information of state names to its correponding abbreviations.
 
 Files from the DS side, visualizations, and zip files containing html articles and analysis with .png images
 for static needs, with html images for interactive national level analysis
 
 7. **app_heatmap.py**
 
-> Dash app for generating Mass shotout (atleast 4 victims) heat map across USA.
+* Dash app for generating Mass shotout (atleast 4 victims) heat map across USA.
 
 _Input:_
 * gun-violence-data_01-2013_03-2018_cleaned.csv
