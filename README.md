@@ -54,3 +54,10 @@ gun-violence-data_choropleth.csv
 
 Files from the DS side, visualizations, and zip files containing html articles and analysis with .png images
 for static needs, with html images for interactive national level analysis
+
+7. **app_heatmap.py**
+
+> Dash app for generating Mass shotout (atleast 4 victims) heat map across USA.
+
+_Input:_
+* gun-violence-data_01-2013_03-2018_cleaned.csv
