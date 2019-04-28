@@ -37,7 +37,7 @@ _Input:_
 _Input:_
 * gun-violence-data_01-2013_03-2018_cleaned.csv
 
-5. **gun_violence_data_preparation2.ipynb**
+5. **gun_violence_data_preparation_choropleth.ipynb**
 
 > Used for feature engineering needed for generating choropleth.
 
